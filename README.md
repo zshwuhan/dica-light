@@ -1,5 +1,8 @@
 ### Rethinking LDA: Moment Matching for Discrete ICA
 
+If you are interested in reproducing our experiments and/or our datasets, check [this](https://github.com/anastasia-podosinnikova/dica) repo.
+
+
 #### About
 This project contains implementations of some moment matching algorithms for topic modeling. 
 In brief, these algorithms are based on the construction of moment/cumulant tensors from the data
@@ -22,8 +25,6 @@ the **orthogonal joint diagonalization algorithm** (jd), and the **tensor power 
 Overall, (a) the theoretical part of the project is [here](http://www.di.ens.fr/~apodosin/dica-project.html) 
 and (b) the project contains Matlab/C++ implementation of the algorithms and the data sets for the paper
 * A. Podosinnikova, F. Bach, and S. Lacoste-Julien. [Rethinking LDA: Moment Matching for Discrete ICA](http://arxiv.org/abs/1507.01784). NIPS, 2015.
-
-If you are interested in reproducing our experiments and/or our datasets, check [this](https://github.com/anastasia-podosinnikova/dica) repo.
 
 
 
