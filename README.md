@@ -23,7 +23,7 @@ The diagonalization type algorithms include the **spectral algorithm** (spectral
 the **orthogonal joint diagonalization algorithm** (jd), and the **tensor power method** (tpm).
 
 Overall, (a) the theoretical part of the project is [here](http://www.di.ens.fr/~apodosin/dica-project.html) 
-and (b) the project contains Matlab/C++ implementation of the algorithms
+and (b) the project contains Matlab/C++ implementation of the algorithms discussed in the paper
 * A. Podosinnikova, F. Bach, and S. Lacoste-Julien. [Rethinking LDA: Moment Matching for Discrete ICA](http://arxiv.org/abs/1507.01784). NIPS, 2015.
 
 
