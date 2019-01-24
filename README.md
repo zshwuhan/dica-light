@@ -1,5 +1,10 @@
 ### Rethinking LDA: Moment Matching for Discrete ICA
 
+This project contains Matlab/C++ implementation of the algorithms introduced in the paper
+* A. Podosinnikova, F. Bach, and S. Lacoste-Julien. [Rethinking LDA: Moment Matching for Discrete ICA](http://arxiv.org/abs/1507.01784). NIPS, 2015.
+
+Please cite this paper if you use this code for your research.
+
 If you are interested in reproducing our experiments and/or our datasets, check [this](https://github.com/anastasia-podosinnikova/dica) repo.
 
 
@@ -22,10 +27,6 @@ The expressions for the DICA cumulants are derived in our paper (see below).
 The diagonalization type algorithms include the **spectral algorithm** (spectral) based on two eigen decompositions, 
 the **orthogonal joint diagonalization algorithm** (jd), and the **tensor power method** (tpm).
 
-Overall, (a) the theoretical part of the project is [here](http://www.di.ens.fr/~apodosin/dica-project.html) 
-and (b) the project contains Matlab/C++ implementation of the algorithms discussed in the paper
-* A. Podosinnikova, F. Bach, and S. Lacoste-Julien. [Rethinking LDA: Moment Matching for Discrete ICA](http://arxiv.org/abs/1507.01784). NIPS, 2015.
-
 
 
 #### Quick start
@@ -37,4 +38,4 @@ and (b) the project contains Matlab/C++ implementation of the algorithms discuss
 
 
 #### Questions?
-Do not hesitate to contact me: firstname.lastname@inria.fr (Anastasia Podosinnikova)
+Please don't hesitate to contact me with questions regarding this code, usage of this algorithm, or bug reports.
